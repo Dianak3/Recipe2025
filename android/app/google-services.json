@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "505366963170",
+    "project_id": "recipesapp-4cd7f",
+    "storage_bucket": "recipesapp-4cd7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505366963170:android:f37da481bf15542168cfbb",
+        "android_client_info": {
+          "package_name": "com.diana.recipesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUMgs58JWaqUMqT17mtNZVsd7MPP8uM2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505366963170:android:26f275d12427776c68cfbb",
+        "android_client_info": {
+          "package_name": "com.example.my_recipes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUMgs58JWaqUMqT17mtNZVsd7MPP8uM2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
