@@ -3,11 +3,11 @@ plugins {
     id("kotlin-android")
     // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
     id("dev.flutter.flutter-gradle-plugin")
-    id("com.google.gms.google-services")
+    id("com.google.gms.google-services") 
 }
 dependencies {
     // ⬇️ Добавь это — BoM (Bill of Materials)
-    implementation(platform("com.google.firebase:firebase-bom:33.14.0"))
+   implementation(platform("com.google.firebase:firebase-bom:33.15.0"))
 
     // ⬇️ Добавь нужные тебе Firebase SDK:
     implementation("com.google.firebase:firebase-analytics")

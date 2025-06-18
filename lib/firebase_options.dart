@@ -64,6 +64,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '505366963170',
     projectId: 'recipesapp-4cd7f',
     storageBucket: 'recipesapp-4cd7f.firebasestorage.app',
+    iosClientId: '505366963170-dj8al1hqpfkbkpabllr39nnsjuuauj97.apps.googleusercontent.com',
     iosBundleId: 'com.example.myRecipesApp',
   );
 
@@ -73,6 +74,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '505366963170',
     projectId: 'recipesapp-4cd7f',
     storageBucket: 'recipesapp-4cd7f.firebasestorage.app',
+    iosClientId: '505366963170-dj8al1hqpfkbkpabllr39nnsjuuauj97.apps.googleusercontent.com',
     iosBundleId: 'com.example.myRecipesApp',
   );
 
@@ -85,4 +87,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'recipesapp-4cd7f.firebasestorage.app',
     measurementId: 'G-NCMZ1Q3JDK',
   );
+
 }

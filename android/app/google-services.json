@@ -7,12 +7,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:505366963170:android:f37da481bf15542168cfbb",
+        "mobilesdk_app_id": "1:505366963170:android:57cde9cc1f2d8cfc68cfbb",
         "android_client_info": {
-          "package_name": "com.diana.recipesapp"
+          "package_name": "com.diana.apprecipe"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "505366963170-iaa8kb0qtla7lj552t5t0lkvvp4m4f4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAUMgs58JWaqUMqT17mtNZVsd7MPP8uM2w"
@@ -20,7 +25,55 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505366963170-iaa8kb0qtla7lj552t5t0lkvvp4m4f4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505366963170-dj8al1hqpfkbkpabllr39nnsjuuauj97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myRecipesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505366963170:android:f37da481bf15542168cfbb",
+        "android_client_info": {
+          "package_name": "com.diana.recipesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505366963170-iaa8kb0qtla7lj552t5t0lkvvp4m4f4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUMgs58JWaqUMqT17mtNZVsd7MPP8uM2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505366963170-iaa8kb0qtla7lj552t5t0lkvvp4m4f4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505366963170-dj8al1hqpfkbkpabllr39nnsjuuauj97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myRecipesApp"
+              }
+            }
+          ]
         }
       }
     },
@@ -31,7 +84,12 @@
           "package_name": "com.example.my_recipes_app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "505366963170-iaa8kb0qtla7lj552t5t0lkvvp4m4f4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAUMgs58JWaqUMqT17mtNZVsd7MPP8uM2w"
@@ -39,7 +97,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505366963170-iaa8kb0qtla7lj552t5t0lkvvp4m4f4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505366963170-dj8al1hqpfkbkpabllr39nnsjuuauj97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myRecipesApp"
+              }
+            }
+          ]
         }
       }
     }
